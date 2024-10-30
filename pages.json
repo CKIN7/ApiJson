@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "_id": "669d5b5551ba35fe71d4e222",
+            "name": "home",
+            "slug": "home",
+            "link": "/",
+            "subpage": [],
+            "__v": 0
+        },
+        {
+            "_id": "66c24967d73e69784f91173c",
+            "name": "store",
+            "slug": "shop",
+            "link": "/products",
+            "subpage": [],
+            "__v": 0
+        }
+    ]
+}

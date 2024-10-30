@@ -1,0 +1,335 @@
+{
+    "data": [
+        {
+            "_id": "66969377d0776db430386ddc",
+            "name": "women's fashion",
+            "slug": "womens-fashion",
+            "submenu": [
+                {
+                    "_id": "66c358a815c25b10765f696a",
+                    "name": "clothing",
+                    "link": "clothing"
+                },
+                {
+                    "_id": "66c358bf15c25b10765f6979",
+                    "name": "dresses",
+                    "link": "dresses"
+                },
+                {
+                    "_id": "66c358d415c25b10765f6980",
+                    "name": "shoes",
+                    "link": "shoes"
+                },
+                {
+                    "_id": "66c3594b15c25b10765f6993",
+                    "name": "jeans",
+                    "link": "jeans"
+                }
+            ],
+            "createdAt": "2024-07-16T15:36:23.145Z",
+            "updatedAt": "2024-08-19T14:40:11.480Z",
+            "__v": 0,
+            "link": "womens-fashion",
+            "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721648031/4vy12UtugCqB76AoWvy0cAHlzKb1HZsklmkOQ6hK_r0dyjn.jpg"
+        },
+        {
+            "_id": "668545b56c0c5a9794adb77c",
+            "name": "hot sale",
+            "slug": "hot-sale",
+            "createdAt": "2024-07-03T12:36:05.093Z",
+            "updatedAt": "2024-08-19T14:43:49.438Z",
+            "__v": 0,
+            "link": "hot-sale",
+            "submenu": [
+                {
+                    "_id": "66c359ea15c25b10765f69a3",
+                    "name": "makeup",
+                    "link": "makeup"
+                },
+                {
+                    "_id": "66c359f715c25b10765f69aa",
+                    "name": "cookware",
+                    "link": "cookware"
+                },
+                {
+                    "_id": "66c35a1415c25b10765f69b1",
+                    "name": "drinkware",
+                    "link": "drinkware"
+                },
+                {
+                    "_id": "66c35a2515c25b10765f69b8",
+                    "name": "skincare",
+                    "link": "skincare"
+                }
+            ],
+            "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721648418/WdwZiJqxwq3mHkSdd2FK940ahSxKj8zv4znTgRZB_b9qacu.webp"
+        },
+        {
+            "_id": "668545aa6c0c5a9794adb778",
+            "name": "headphones",
+            "slug": "headphones",
+            "createdAt": "2024-07-03T12:35:54.957Z",
+            "updatedAt": "2024-08-19T14:47:56.074Z",
+            "__v": 0,
+            "link": "headphones",
+            "submenu": [
+                {
+                    "_id": "66ac3bc47821c5f37137dc81",
+                    "name": "air pods",
+                    "link": "airpods"
+                },
+                {
+                    "_id": "66c35b0715c25b10765f69c0",
+                    "name": "onears",
+                    "link": "onears"
+                },
+                {
+                    "_id": "66c35b1315c25b10765f69c6",
+                    "name": "inears",
+                    "link": "inears"
+                },
+                {
+                    "_id": "66c35b1c15c25b10765f69cc",
+                    "name": "overears",
+                    "link": "overears"
+                }
+            ],
+            "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721652259/AejJcBztvGVJchDp3EXwbSyN82q7IWr6fW2SijJC_ifgnkq.jpg"
+        },
+        {
+            "_id": "6685459f6c0c5a9794adb774",
+            "name": "softwares",
+            "slug": "softwares",
+            "createdAt": "2024-07-03T12:35:43.970Z",
+            "updatedAt": "2024-08-19T15:31:24.537Z",
+            "__v": 0,
+            "link": "softwares",
+            "submenu": [
+                {
+                    "_id": "66c3651715c25b10765f6add",
+                    "name": "accounting",
+                    "link": "accounting"
+                },
+                {
+                    "_id": "66c3652515c25b10765f6aeb",
+                    "name": "business",
+                    "link": "business"
+                },
+                {
+                    "_id": "66c3652e15c25b10765f6af1",
+                    "name": "antivirus",
+                    "link": "antivirus"
+                },
+                {
+                    "_id": "66c3654c15c25b10765f6afd",
+                    "name": "programming",
+                    "link": "programming"
+                }
+            ],
+            "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721652357/hcTV9LA7ioqmbK9vPyZTNfW33tnk02Z6GWY4r9gs_ojzvfg.jpg"
+        },
+        {
+            "_id": "6685458f6c0c5a9794adb770",
+            "name": "health & household",
+            "slug": "health-household",
+            "createdAt": "2024-07-03T12:35:27.803Z",
+            "updatedAt": "2024-08-19T15:34:30.101Z",
+            "__v": 0,
+            "link": "health-household",
+            "submenu": [
+                {
+                    "_id": "66c365bb15c25b10765f6b1b",
+                    "name": "health car",
+                    "link": "health-care"
+                },
+                {
+                    "_id": "66c365cc15c25b10765f6b29",
+                    "name": "personal care",
+                    "link": "personal-care"
+                },
+                {
+                    "_id": "66c365e215c25b10765f6b31",
+                    "name": "sexual wellness",
+                    "link": "sexual-wellness"
+                },
+                {
+                    "_id": "66c3660615c25b10765f6b39",
+                    "name": "sport nutrition",
+                    "link": "sport-nutrition"
+                }
+            ],
+            "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644549/T9hhgFKDnw98wDQwjF2krrnKQbbLC9CV0moMOAyF_hzvqgn.jpg"
+        },
+        {
+            "_id": "668544f16c0c5a9794adb766",
+            "name": "men's fashion",
+            "slug": "men-fashion",
+            "createdAt": "2024-07-03T12:32:49.228Z",
+            "updatedAt": "2024-08-19T18:33:41.002Z",
+            "__v": 0,
+            "submenu": [
+                {
+                    "_id": "66c366ef15c25b10765f6b83",
+                    "name": "watches",
+                    "link": "watches"
+                },
+                {
+                    "_id": "66c3673115c25b10765f6b8d",
+                    "name": "accesories",
+                    "link": "accesories"
+                },
+                {
+                    "_id": "66c38cd015c25b10765f7040",
+                    "name": "men shoes",
+                    "link": "mens-shoes"
+                },
+                {
+                    "_id": "66c3900415c25b10765f706d",
+                    "name": "men clothing",
+                    "link": "men-clothing"
+                }
+            ],
+            "link": "men-fashion",
+            "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644549/T9hhgFKDnw98wDQwjF2krrnKQbbLC9CV0moMOAyF_hzvqgn.jpg"
+        },
+        {
+            "_id": "668544e16c0c5a9794adb762",
+            "name": "home & kitchen",
+            "slug": "home-kitchen",
+            "createdAt": "2024-07-03T12:32:33.341Z",
+            "updatedAt": "2024-08-19T15:42:42.414Z",
+            "__v": 0,
+            "link": "home-kitchen",
+            "submenu": [
+                {
+                    "_id": "66c3679515c25b10765f6bb1",
+                    "name": "furniture",
+                    "link": "furniture"
+                },
+                {
+                    "_id": "66c367ac15c25b10765f6bbf",
+                    "name": "cleaning supplies",
+                    "link": "cleaning-supplies"
+                },
+                {
+                    "_id": "66c367ca15c25b10765f6bc9",
+                    "name": "storage & organization",
+                    "link": "storage-organization"
+                },
+                {
+                    "_id": "66c367f215c25b10765f6bd1",
+                    "name": "bedding",
+                    "link": "bedding"
+                }
+            ],
+            "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644460/0Ae4WkaGunLTgTDf24i2ui0hhGB2kZPRVS5k7rn8_zjcrvy.jpg"
+        },
+        {
+            "_id": "668544b76c0c5a9794adb75c",
+            "name": "videos games",
+            "slug": "video-games",
+            "createdAt": "2024-07-03T12:31:51.217Z",
+            "updatedAt": "2024-08-19T16:01:01.892Z",
+            "__v": 0,
+            "link": "video-games",
+            "submenu": [
+                {
+                    "_id": "66c36bf615c25b10765f6c21",
+                    "name": "playstation 5",
+                    "link": "playstation-5"
+                },
+                {
+                    "_id": "66c36c0615c25b10765f6c2f",
+                    "name": "playstation 4",
+                    "link": "playstation-4"
+                },
+                {
+                    "_id": "66c36c2215c25b10765f6c35",
+                    "name": "jeux pc",
+                    "link": "jeux-pc"
+                },
+                {
+                    "_id": "66c36c3d15c25b10765f6c3d",
+                    "name": "accessories",
+                    "link": "accessories"
+                }
+            ],
+            "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644383/sjBHD1SNqe4BgkqmvqmWAB7U759HOZPVJRvV1Qbr_e9tsny.png"
+        },
+        {
+            "_id": "6685449e6c0c5a9794adb758",
+            "name": "consumer electronics",
+            "slug": "consumer-electronics",
+            "createdAt": "2024-07-03T12:31:26.689Z",
+            "updatedAt": "2024-07-16T15:31:22.779Z",
+            "__v": 0,
+            "link": "consumer-electronics",
+            "submenu": [],
+            "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644549/T9hhgFKDnw98wDQwjF2krrnKQbbLC9CV0moMOAyF_hzvqgn.jpg"
+        },
+        {
+            "_id": "668544806c0c5a9794adb754",
+            "name": "mobiles",
+            "slug": "mobiles",
+            "createdAt": "2024-07-03T12:30:56.952Z",
+            "updatedAt": "2024-07-16T16:08:48.747Z",
+            "__v": 0,
+            "submenu": [
+                {
+                    "_id": "6685a15a8a0761593b5fdf30",
+                    "name": "android",
+                    "link": "android"
+                },
+                {
+                    "_id": "6685a1408a0761593b5fdf2b",
+                    "name": "iphone",
+                    "link": "iphone"
+                }
+            ],
+            "link": "mobiles",
+            "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644333/UAP07Ygha9iXNfG1Rh6DYWrwVQ3HfkuqetLaLc6M_gesb5u.jpg"
+        },
+        {
+            "_id": "668542de6c0c5a9794adb74a",
+            "name": "electronics",
+            "createdAt": "2024-07-03T12:23:58.325Z",
+            "updatedAt": "2024-08-20T19:38:28.683Z",
+            "__v": 0,
+            "slug": "electronics",
+            "submenu": [
+                {
+                    "_id": "669637c65798c9eb94de8227",
+                    "name": "hot brands",
+                    "link": "hot-brands"
+                },
+                {
+                    "_id": "6694c711c2c44bfe362001de",
+                    "name": "monitors",
+                    "link": "monitors"
+                },
+                {
+                    "_id": "66855ae26c0c5a9794adb844",
+                    "name": "computers accessories",
+                    "link": "computers-accessories"
+                },
+                {
+                    "_id": "66855ac96c0c5a9794adb83f",
+                    "name": "laptops",
+                    "link": "laptops"
+                },
+                {
+                    "_id": "66855aa96c0c5a9794adb83a",
+                    "name": "mobiles",
+                    "link": "mobiles"
+                },
+                {
+                    "_id": "66c4f0b4d9313339b6b6b19e",
+                    "name": "consoles vdeos games",
+                    "link": "consoles-videos-games"
+                }
+            ],
+            "link": "electronics",
+            "image": "https://demo.fleetcart.envaysoft.com/storage/media/2cZfkz85nXxlSTySz6R8m34u5UQLfiRQVyKjF8hm.png"
+        }
+    ]
+}

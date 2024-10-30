@@ -1,0 +1,2 @@
+### Recuperar todas las peliculas
+GET http://localhost:1234/api/cart?id=66c5b04bd9313339b6b6b6a7&style=0&option=0
